@@ -1,0 +1,3 @@
+﻿  ans2_4.cpp
+C:\Users\yamat\source\repos\ci_programing\CI\6023\ans2_4.cpp(52,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  CI.vcxproj -> C:\Users\yamat\source\repos\ci_programing\Debug\CI.exe
